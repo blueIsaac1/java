@@ -20,7 +20,6 @@ public class Calculos11 {
         System.out.println("O produto 1 é: " + produto1);   // Produto do dobro do primeiro com metade do segundo
         System.out.println("O produto 2 é: " + produto2);   // Produto da soma do triplo do primeiro com o terceiro
         System.out.println("O produto 3 é: " + produto3);   // Produto do cubo do terceiro
-}
-
-    
+        scanner.close();
+    }
 }

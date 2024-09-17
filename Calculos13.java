@@ -20,5 +20,6 @@ public class Calculos13 {
         System.out.println("Seu desconto do INSS é: " + desconto2);
         System.out.println("Seu desconto do Sindicato é: " + desconto3);
         System.out.println("Seu salário líquido é: " + salarioLiquido);
+        scanner.close();
     }
 }
